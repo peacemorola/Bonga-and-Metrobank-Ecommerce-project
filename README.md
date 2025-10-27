@@ -1,5 +1,4 @@
-# DATA-ENGINEERING-PROJECTS
-A collection of DE projects accross different industries
+#  METROBANK & BONGA ECOMMERCE DATA-ENGINEERING-PROJECTS
 
 ERD DIAGRAM FOR METROBANK DATABASE
 <img width="1360" height="666" alt="ERD_METROBANK" src="https://github.com/user-attachments/assets/a12ae7a3-ccbc-4ace-8ca3-41c08537cf2a" />
